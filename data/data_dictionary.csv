@@ -1,0 +1,16 @@
+table,column,description,role
+patients,patient_id,Unique patient identifier,Primary Key
+doctors,doctor_id,Unique doctor identifier,Primary Key
+appointments,appointment_id,Unique appointment identifier,Primary Key
+appointments,patient_id,Links appointment to patient,Foreign Key -> patients
+appointments,doctor_id,Links appointment to doctor,Foreign Key -> doctors
+admissions,admission_id,Unique admission identifier,Primary Key
+admissions,patient_id,Links admission to patient,Foreign Key -> patients
+admissions,doctor_id,Links admission to doctor,Foreign Key -> doctors
+treatments,treatment_id,Unique treatment identifier,Primary Key
+treatments,admission_id,Links treatment to admission,Foreign Key -> admissions
+billing,bill_id,Unique bill identifier,Primary Key
+billing,patient_id,Links bill to patient,Foreign Key -> patients
+billing,admission_id,Links bill to admission,Foreign Key -> admissions
+beds,bed_id,Unique bed identifier,Primary Key
+beds,admission_id,Links occupied bed to admission,Foreign Key -> admissions

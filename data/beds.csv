@@ -1,0 +1,501 @@
+bed_id,department,bed_type,status,admission_id
+BED0001,General Medicine,General,Maintenance,
+BED0002,General Medicine,General,Occupied,ADM00172
+BED0003,Oncology,General,Available,
+BED0004,General Medicine,General,Available,
+BED0005,ENT,General,Occupied,ADM03327
+BED0006,Neurology,General,Occupied,ADM01193
+BED0007,Gynecology,General,Available,
+BED0008,Emergency,Semi-Private,Occupied,ADM03757
+BED0009,Gynecology,General,Occupied,ADM07929
+BED0010,Oncology,General,Occupied,ADM02968
+BED0011,Orthopedics,General,Occupied,ADM07630
+BED0012,Oncology,Semi-Private,Occupied,ADM04085
+BED0013,Orthopedics,General,Occupied,ADM06496
+BED0014,Pediatrics,Semi-Private,Available,
+BED0015,Emergency,General,Occupied,ADM05198
+BED0016,Pediatrics,Private,Available,
+BED0017,General Medicine,Semi-Private,Occupied,ADM02698
+BED0018,Emergency,General,Occupied,ADM06972
+BED0019,ENT,ICU,Available,
+BED0020,Oncology,General,Occupied,ADM06883
+BED0021,Pediatrics,ICU,Occupied,ADM06352
+BED0022,Neurology,Private,Available,
+BED0023,ENT,Private,Occupied,ADM03689
+BED0024,General Medicine,Semi-Private,Occupied,ADM00405
+BED0025,Cardiology,General,Occupied,ADM06818
+BED0026,General Medicine,General,Occupied,ADM04598
+BED0027,Cardiology,Semi-Private,Occupied,ADM05873
+BED0028,Gynecology,Private,Occupied,ADM06988
+BED0029,Neurology,General,Occupied,ADM06557
+BED0030,Pediatrics,Semi-Private,Occupied,ADM06603
+BED0031,Cardiology,General,Available,
+BED0032,Pediatrics,General,Occupied,ADM05356
+BED0033,Gynecology,Semi-Private,Occupied,ADM05883
+BED0034,Gynecology,Semi-Private,Available,
+BED0035,General Medicine,ICU,Available,
+BED0036,ENT,Private,Occupied,ADM02817
+BED0037,Dermatology,General,Available,
+BED0038,ENT,Private,Occupied,ADM03722
+BED0039,Gynecology,General,Occupied,ADM03538
+BED0040,Orthopedics,ICU,Occupied,ADM03794
+BED0041,General Medicine,Semi-Private,Available,
+BED0042,Emergency,General,Available,
+BED0043,Pediatrics,General,Occupied,ADM06578
+BED0044,Cardiology,General,Occupied,ADM01386
+BED0045,General Medicine,Private,Occupied,ADM04433
+BED0046,Gynecology,Private,Occupied,ADM02751
+BED0047,Oncology,General,Occupied,ADM04048
+BED0048,Pediatrics,Private,Occupied,ADM02348
+BED0049,Pediatrics,Private,Occupied,ADM04665
+BED0050,Neurology,General,Occupied,ADM02800
+BED0051,Gynecology,General,Occupied,ADM02103
+BED0052,Emergency,Private,Occupied,ADM02534
+BED0053,Pediatrics,ICU,Occupied,ADM03725
+BED0054,Neurology,Semi-Private,Occupied,ADM07694
+BED0055,General Medicine,General,Maintenance,
+BED0056,Emergency,Semi-Private,Available,
+BED0057,General Medicine,General,Available,
+BED0058,Orthopedics,Private,Occupied,ADM06346
+BED0059,Gynecology,General,Occupied,ADM05450
+BED0060,Pediatrics,General,Occupied,ADM05675
+BED0061,ENT,Private,Occupied,ADM02141
+BED0062,General Medicine,Semi-Private,Occupied,ADM01848
+BED0063,Neurology,Semi-Private,Occupied,ADM06111
+BED0064,Orthopedics,Semi-Private,Available,
+BED0065,Emergency,General,Available,
+BED0066,Orthopedics,General,Occupied,ADM00599
+BED0067,ENT,General,Available,
+BED0068,Cardiology,Private,Available,
+BED0069,Emergency,General,Occupied,ADM05377
+BED0070,General Medicine,Semi-Private,Occupied,ADM04322
+BED0071,Oncology,Private,Occupied,ADM05696
+BED0072,General Medicine,Private,Available,
+BED0073,Oncology,General,Occupied,ADM00570
+BED0074,Emergency,Private,Occupied,ADM02844
+BED0075,Neurology,General,Available,
+BED0076,Dermatology,Private,Occupied,ADM06748
+BED0077,Pediatrics,Private,Available,
+BED0078,Emergency,General,Available,
+BED0079,Gynecology,Private,Available,
+BED0080,Neurology,Semi-Private,Occupied,ADM00585
+BED0081,General Medicine,General,Available,
+BED0082,Emergency,General,Occupied,ADM07448
+BED0083,Emergency,General,Occupied,ADM05734
+BED0084,Cardiology,General,Available,
+BED0085,Pediatrics,ICU,Occupied,ADM02525
+BED0086,Gynecology,General,Occupied,ADM04668
+BED0087,ENT,General,Occupied,ADM02753
+BED0088,Oncology,ICU,Occupied,ADM04714
+BED0089,Pediatrics,Private,Available,
+BED0090,Dermatology,Semi-Private,Available,
+BED0091,General Medicine,General,Available,
+BED0092,Pediatrics,Semi-Private,Available,
+BED0093,ENT,Private,Occupied,ADM02603
+BED0094,Cardiology,Private,Available,
+BED0095,General Medicine,General,Available,
+BED0096,Cardiology,General,Available,
+BED0097,Gynecology,General,Occupied,ADM06110
+BED0098,Gynecology,General,Available,
+BED0099,Oncology,General,Maintenance,
+BED0100,Emergency,ICU,Occupied,ADM04549
+BED0101,Emergency,Semi-Private,Occupied,ADM07375
+BED0102,Dermatology,Private,Occupied,ADM01592
+BED0103,Gynecology,General,Occupied,ADM05265
+BED0104,Oncology,General,Occupied,ADM06806
+BED0105,Emergency,Semi-Private,Occupied,ADM05281
+BED0106,Neurology,General,Occupied,ADM03833
+BED0107,Neurology,General,Occupied,ADM02564
+BED0108,Emergency,General,Occupied,ADM02339
+BED0109,General Medicine,General,Occupied,ADM07457
+BED0110,Dermatology,Private,Available,
+BED0111,Cardiology,General,Occupied,ADM03710
+BED0112,Neurology,General,Available,
+BED0113,Orthopedics,General,Occupied,ADM05817
+BED0114,Oncology,General,Occupied,ADM06975
+BED0115,Emergency,Semi-Private,Available,
+BED0116,Neurology,Private,Occupied,ADM07796
+BED0117,General Medicine,General,Occupied,ADM04239
+BED0118,Gynecology,Private,Available,
+BED0119,Pediatrics,General,Occupied,ADM04904
+BED0120,Oncology,Private,Available,
+BED0121,Cardiology,Semi-Private,Available,
+BED0122,Cardiology,Private,Available,
+BED0123,General Medicine,Private,Occupied,ADM03571
+BED0124,Pediatrics,General,Available,
+BED0125,Gynecology,General,Occupied,ADM02697
+BED0126,Cardiology,General,Occupied,ADM06558
+BED0127,ENT,General,Occupied,ADM02649
+BED0128,Dermatology,Private,Available,
+BED0129,ENT,General,Occupied,ADM01213
+BED0130,Cardiology,General,Occupied,ADM02348
+BED0131,Cardiology,General,Occupied,ADM03153
+BED0132,Emergency,Semi-Private,Occupied,ADM06426
+BED0133,Emergency,General,Occupied,ADM01686
+BED0134,Gynecology,Private,Occupied,ADM04648
+BED0135,Orthopedics,ICU,Occupied,ADM03030
+BED0136,Cardiology,General,Occupied,ADM06398
+BED0137,Orthopedics,Semi-Private,Occupied,ADM03515
+BED0138,Dermatology,Private,Occupied,ADM01309
+BED0139,Neurology,Semi-Private,Available,
+BED0140,Gynecology,General,Occupied,ADM01802
+BED0141,Pediatrics,Semi-Private,Occupied,ADM05765
+BED0142,Orthopedics,ICU,Occupied,ADM05392
+BED0143,Gynecology,Private,Available,
+BED0144,Emergency,General,Occupied,ADM05207
+BED0145,Gynecology,Semi-Private,Occupied,ADM02760
+BED0146,Orthopedics,Private,Available,
+BED0147,Emergency,General,Occupied,ADM01133
+BED0148,Oncology,ICU,Occupied,ADM04857
+BED0149,ENT,Semi-Private,Available,
+BED0150,Pediatrics,Private,Occupied,ADM00135
+BED0151,ENT,General,Occupied,ADM07971
+BED0152,Orthopedics,ICU,Occupied,ADM00456
+BED0153,Orthopedics,Semi-Private,Occupied,ADM07980
+BED0154,General Medicine,Private,Occupied,ADM06850
+BED0155,ENT,General,Occupied,ADM04654
+BED0156,Cardiology,General,Occupied,ADM06531
+BED0157,Gynecology,General,Occupied,ADM00664
+BED0158,Pediatrics,General,Occupied,ADM06232
+BED0159,Emergency,General,Available,
+BED0160,Emergency,Private,Occupied,ADM05004
+BED0161,General Medicine,General,Occupied,ADM02021
+BED0162,Neurology,Semi-Private,Available,
+BED0163,Oncology,General,Occupied,ADM02383
+BED0164,Orthopedics,General,Available,
+BED0165,Orthopedics,ICU,Occupied,ADM00499
+BED0166,Dermatology,Private,Occupied,ADM06270
+BED0167,Cardiology,General,Available,
+BED0168,Oncology,General,Occupied,ADM05394
+BED0169,Neurology,General,Occupied,ADM04156
+BED0170,Gynecology,ICU,Maintenance,
+BED0171,Cardiology,General,Available,
+BED0172,Neurology,ICU,Occupied,
+BED0173,Dermatology,Semi-Private,Occupied,ADM07453
+BED0174,General Medicine,General,Occupied,ADM07526
+BED0175,Dermatology,General,Occupied,ADM06005
+BED0176,ENT,ICU,Occupied,ADM04588
+BED0177,Oncology,General,Occupied,ADM07070
+BED0178,ENT,Private,Available,
+BED0179,Oncology,Semi-Private,Available,
+BED0180,Cardiology,Private,Available,
+BED0181,Gynecology,General,Occupied,ADM07512
+BED0182,ENT,General,Maintenance,
+BED0183,Cardiology,General,Available,
+BED0184,Neurology,Private,Occupied,ADM05292
+BED0185,Orthopedics,Semi-Private,Occupied,ADM04535
+BED0186,Emergency,General,Occupied,ADM01258
+BED0187,Neurology,General,Available,
+BED0188,Pediatrics,Semi-Private,Occupied,ADM03199
+BED0189,Emergency,General,Occupied,ADM04655
+BED0190,Emergency,ICU,Occupied,ADM00156
+BED0191,Dermatology,Private,Occupied,ADM03737
+BED0192,Pediatrics,Private,Occupied,ADM05567
+BED0193,Neurology,ICU,Occupied,ADM01310
+BED0194,Pediatrics,ICU,Occupied,ADM02657
+BED0195,Orthopedics,General,Available,
+BED0196,Pediatrics,ICU,Occupied,
+BED0197,Oncology,Private,Occupied,ADM04692
+BED0198,Neurology,General,Occupied,ADM02100
+BED0199,Cardiology,General,Available,
+BED0200,ENT,General,Occupied,ADM04127
+BED0201,Cardiology,General,Available,
+BED0202,Pediatrics,General,Occupied,ADM06790
+BED0203,Orthopedics,General,Occupied,ADM04929
+BED0204,Dermatology,ICU,Occupied,ADM02043
+BED0205,Orthopedics,Semi-Private,Occupied,ADM00080
+BED0206,ENT,General,Occupied,ADM05087
+BED0207,General Medicine,Semi-Private,Occupied,ADM04001
+BED0208,Oncology,Private,Occupied,ADM01321
+BED0209,Cardiology,Private,Occupied,ADM00335
+BED0210,Emergency,General,Available,
+BED0211,Gynecology,General,Occupied,ADM04487
+BED0212,Neurology,General,Occupied,ADM07832
+BED0213,Orthopedics,Private,Occupied,ADM02877
+BED0214,Gynecology,Private,Occupied,ADM01424
+BED0215,Dermatology,Private,Available,
+BED0216,Pediatrics,ICU,Occupied,ADM00317
+BED0217,Neurology,General,Available,
+BED0218,Emergency,Semi-Private,Available,
+BED0219,Emergency,General,Available,
+BED0220,Oncology,Private,Available,
+BED0221,Orthopedics,ICU,Occupied,ADM07403
+BED0222,Dermatology,General,Occupied,ADM06351
+BED0223,Cardiology,General,Occupied,ADM06396
+BED0224,Neurology,Private,Occupied,ADM01711
+BED0225,Emergency,General,Occupied,ADM04280
+BED0226,Pediatrics,Private,Occupied,ADM03288
+BED0227,Emergency,General,Available,
+BED0228,ENT,General,Occupied,ADM05461
+BED0229,Gynecology,General,Occupied,ADM01468
+BED0230,Oncology,General,Occupied,ADM03878
+BED0231,Pediatrics,Private,Occupied,ADM06804
+BED0232,Orthopedics,General,Available,
+BED0233,Gynecology,General,Occupied,ADM00089
+BED0234,Orthopedics,ICU,Available,
+BED0235,Dermatology,ICU,Available,
+BED0236,Neurology,General,Available,
+BED0237,ENT,Semi-Private,Occupied,ADM00052
+BED0238,Oncology,ICU,Occupied,ADM05956
+BED0239,Neurology,Semi-Private,Available,
+BED0240,Dermatology,Semi-Private,Occupied,ADM06555
+BED0241,Pediatrics,Semi-Private,Available,
+BED0242,Neurology,Private,Occupied,ADM01565
+BED0243,Dermatology,ICU,Occupied,ADM04780
+BED0244,Neurology,General,Occupied,
+BED0245,Pediatrics,Semi-Private,Occupied,ADM02663
+BED0246,Oncology,General,Occupied,ADM01418
+BED0247,Gynecology,General,Occupied,ADM07836
+BED0248,Oncology,General,Occupied,ADM05552
+BED0249,Oncology,ICU,Occupied,ADM05046
+BED0250,General Medicine,General,Occupied,ADM01221
+BED0251,Oncology,General,Occupied,ADM07887
+BED0252,Cardiology,General,Occupied,ADM03013
+BED0253,Emergency,General,Occupied,ADM04626
+BED0254,Orthopedics,General,Occupied,ADM05134
+BED0255,Oncology,Semi-Private,Occupied,ADM06543
+BED0256,Orthopedics,General,Occupied,ADM05876
+BED0257,Neurology,General,Occupied,ADM02070
+BED0258,General Medicine,ICU,Available,
+BED0259,Dermatology,ICU,Maintenance,
+BED0260,Cardiology,General,Available,
+BED0261,Oncology,Private,Occupied,ADM01609
+BED0262,Gynecology,ICU,Available,
+BED0263,Cardiology,Private,Occupied,ADM03194
+BED0264,Cardiology,General,Available,
+BED0265,Cardiology,General,Occupied,ADM01622
+BED0266,General Medicine,Semi-Private,Occupied,ADM05758
+BED0267,General Medicine,General,Occupied,ADM01511
+BED0268,Dermatology,General,Occupied,ADM07285
+BED0269,Dermatology,General,Occupied,ADM03505
+BED0270,Gynecology,Semi-Private,Occupied,ADM02194
+BED0271,Emergency,Private,Occupied,ADM04980
+BED0272,Cardiology,General,Occupied,ADM03731
+BED0273,Oncology,Semi-Private,Occupied,ADM07697
+BED0274,Pediatrics,Semi-Private,Occupied,ADM04117
+BED0275,Dermatology,ICU,Available,
+BED0276,Pediatrics,General,Available,
+BED0277,Oncology,General,Available,
+BED0278,General Medicine,General,Occupied,ADM04076
+BED0279,Dermatology,Private,Available,
+BED0280,Gynecology,General,Occupied,ADM07998
+BED0281,Gynecology,General,Occupied,ADM01823
+BED0282,Cardiology,General,Available,
+BED0283,Cardiology,General,Occupied,ADM00532
+BED0284,Pediatrics,General,Maintenance,
+BED0285,Emergency,General,Occupied,ADM04575
+BED0286,Pediatrics,General,Occupied,ADM05565
+BED0287,Neurology,General,Available,
+BED0288,Emergency,General,Available,
+BED0289,Gynecology,Private,Occupied,ADM07310
+BED0290,Dermatology,General,Occupied,ADM00627
+BED0291,Oncology,Private,Available,
+BED0292,Neurology,General,Occupied,ADM07809
+BED0293,Oncology,General,Occupied,ADM03072
+BED0294,Neurology,Private,Occupied,ADM03652
+BED0295,Cardiology,Private,Occupied,
+BED0296,Cardiology,ICU,Occupied,ADM05161
+BED0297,Pediatrics,ICU,Available,
+BED0298,Neurology,Semi-Private,Available,
+BED0299,Oncology,General,Available,
+BED0300,Pediatrics,General,Occupied,ADM04396
+BED0301,Dermatology,General,Occupied,ADM04346
+BED0302,Emergency,General,Occupied,ADM04099
+BED0303,Emergency,General,Occupied,ADM07816
+BED0304,Oncology,Private,Available,
+BED0305,Emergency,General,Occupied,ADM06311
+BED0306,Emergency,General,Occupied,ADM05910
+BED0307,Pediatrics,General,Available,
+BED0308,Pediatrics,General,Occupied,ADM00235
+BED0309,Dermatology,General,Maintenance,
+BED0310,ENT,General,Available,
+BED0311,ENT,General,Occupied,ADM02750
+BED0312,ENT,Private,Occupied,ADM02849
+BED0313,General Medicine,Semi-Private,Available,
+BED0314,Orthopedics,General,Occupied,ADM05745
+BED0315,General Medicine,Semi-Private,Occupied,ADM06449
+BED0316,Gynecology,General,Occupied,ADM07273
+BED0317,Cardiology,General,Available,
+BED0318,Gynecology,General,Occupied,ADM04937
+BED0319,Orthopedics,General,Occupied,ADM02114
+BED0320,Neurology,Private,Occupied,ADM01257
+BED0321,Dermatology,General,Occupied,ADM04903
+BED0322,Cardiology,General,Occupied,ADM06078
+BED0323,Pediatrics,General,Occupied,ADM01803
+BED0324,ENT,ICU,Occupied,ADM06249
+BED0325,Oncology,Semi-Private,Occupied,ADM04335
+BED0326,General Medicine,General,Available,
+BED0327,Emergency,Private,Available,
+BED0328,Pediatrics,General,Occupied,ADM02155
+BED0329,Orthopedics,Semi-Private,Occupied,ADM00234
+BED0330,Emergency,General,Occupied,ADM04467
+BED0331,General Medicine,Private,Available,
+BED0332,Cardiology,General,Occupied,ADM04364
+BED0333,Emergency,General,Available,
+BED0334,General Medicine,Private,Occupied,ADM00457
+BED0335,Oncology,General,Occupied,ADM03632
+BED0336,Neurology,Private,Available,
+BED0337,Neurology,General,Occupied,ADM00479
+BED0338,Emergency,General,Available,
+BED0339,Dermatology,General,Available,
+BED0340,Pediatrics,Private,Available,
+BED0341,Neurology,General,Occupied,ADM02927
+BED0342,Emergency,Private,Occupied,ADM05378
+BED0343,ENT,General,Occupied,ADM02156
+BED0344,Cardiology,ICU,Occupied,ADM06401
+BED0345,Pediatrics,General,Occupied,ADM04741
+BED0346,Gynecology,General,Occupied,ADM05475
+BED0347,Dermatology,Semi-Private,Available,
+BED0348,Neurology,General,Available,
+BED0349,General Medicine,Semi-Private,Occupied,ADM03869
+BED0350,Emergency,General,Occupied,ADM01349
+BED0351,Cardiology,ICU,Occupied,ADM06141
+BED0352,Dermatology,General,Occupied,ADM05865
+BED0353,General Medicine,General,Available,
+BED0354,Neurology,Private,Occupied,ADM05837
+BED0355,Pediatrics,General,Occupied,ADM02926
+BED0356,General Medicine,Private,Occupied,ADM04887
+BED0357,Cardiology,Semi-Private,Occupied,ADM03458
+BED0358,Neurology,Semi-Private,Available,
+BED0359,Neurology,Private,Available,
+BED0360,Pediatrics,General,Occupied,ADM00650
+BED0361,General Medicine,General,Occupied,ADM05819
+BED0362,General Medicine,Semi-Private,Maintenance,
+BED0363,Neurology,Semi-Private,Occupied,ADM01455
+BED0364,Neurology,General,Occupied,ADM06289
+BED0365,ENT,Private,Occupied,ADM01673
+BED0366,Emergency,Private,Available,
+BED0367,Oncology,General,Occupied,ADM03138
+BED0368,Emergency,General,Available,
+BED0369,Pediatrics,Semi-Private,Occupied,ADM03313
+BED0370,Gynecology,General,Occupied,ADM05970
+BED0371,Orthopedics,General,Available,
+BED0372,General Medicine,Private,Occupied,ADM00572
+BED0373,Gynecology,General,Available,
+BED0374,Pediatrics,Semi-Private,Occupied,ADM00781
+BED0375,Pediatrics,General,Occupied,ADM06721
+BED0376,Gynecology,Private,Occupied,ADM06493
+BED0377,Oncology,Semi-Private,Occupied,ADM05486
+BED0378,Orthopedics,General,Occupied,ADM07513
+BED0379,Orthopedics,General,Occupied,ADM06942
+BED0380,Neurology,Private,Occupied,ADM06647
+BED0381,Gynecology,Private,Occupied,ADM05891
+BED0382,Pediatrics,General,Occupied,ADM01538
+BED0383,ENT,General,Occupied,ADM03352
+BED0384,Cardiology,General,Occupied,ADM04019
+BED0385,Emergency,Semi-Private,Occupied,ADM06047
+BED0386,General Medicine,Private,Occupied,ADM02692
+BED0387,Pediatrics,ICU,Occupied,ADM01199
+BED0388,Neurology,General,Occupied,ADM05701
+BED0389,Neurology,General,Available,
+BED0390,Orthopedics,Semi-Private,Occupied,ADM06025
+BED0391,Orthopedics,General,Occupied,ADM03852
+BED0392,Neurology,ICU,Occupied,ADM00107
+BED0393,Orthopedics,General,Available,
+BED0394,Oncology,ICU,Occupied,ADM01287
+BED0395,General Medicine,Private,Occupied,ADM06727
+BED0396,General Medicine,Private,Occupied,ADM01594
+BED0397,Pediatrics,ICU,Available,
+BED0398,General Medicine,Private,Occupied,ADM04570
+BED0399,Pediatrics,Semi-Private,Occupied,ADM07880
+BED0400,Orthopedics,Semi-Private,Occupied,ADM03315
+BED0401,General Medicine,General,Occupied,ADM07933
+BED0402,Neurology,Private,Occupied,ADM03850
+BED0403,Dermatology,General,Occupied,ADM03667
+BED0404,Neurology,General,Occupied,ADM03935
+BED0405,Gynecology,Semi-Private,Occupied,ADM02189
+BED0406,Oncology,Private,Available,
+BED0407,Emergency,Semi-Private,Occupied,ADM06195
+BED0408,Emergency,General,Maintenance,
+BED0409,Gynecology,General,Available,
+BED0410,Pediatrics,General,Occupied,ADM00766
+BED0411,Neurology,General,Occupied,ADM06761
+BED0412,Pediatrics,General,Occupied,ADM03189
+BED0413,Cardiology,General,Occupied,ADM07972
+BED0414,General Medicine,Semi-Private,Occupied,ADM00022
+BED0415,Orthopedics,General,Available,
+BED0416,General Medicine,ICU,Occupied,ADM04031
+BED0417,Dermatology,Private,Available,
+BED0418,General Medicine,Private,Maintenance,
+BED0419,General Medicine,Semi-Private,Maintenance,
+BED0420,ENT,General,Available,
+BED0421,Orthopedics,Private,Available,
+BED0422,Oncology,General,Occupied,ADM04174
+BED0423,Orthopedics,Semi-Private,Occupied,ADM01374
+BED0424,Gynecology,General,Available,
+BED0425,ENT,General,Occupied,ADM03628
+BED0426,Emergency,Private,Available,
+BED0427,Dermatology,General,Occupied,ADM07075
+BED0428,Pediatrics,Semi-Private,Occupied,ADM03157
+BED0429,Pediatrics,Semi-Private,Occupied,ADM00638
+BED0430,Pediatrics,General,Occupied,ADM04467
+BED0431,Dermatology,General,Occupied,ADM00611
+BED0432,Gynecology,ICU,Occupied,ADM07704
+BED0433,Pediatrics,General,Occupied,
+BED0434,Emergency,Private,Available,
+BED0435,ENT,Private,Occupied,ADM05653
+BED0436,Oncology,General,Occupied,ADM06793
+BED0437,Oncology,Semi-Private,Occupied,ADM05424
+BED0438,General Medicine,Semi-Private,Occupied,ADM07021
+BED0439,Pediatrics,ICU,Occupied,ADM03562
+BED0440,Gynecology,Semi-Private,Occupied,ADM02821
+BED0441,Emergency,Private,Occupied,ADM03770
+BED0442,ENT,ICU,Occupied,ADM00133
+BED0443,Gynecology,ICU,Occupied,ADM01610
+BED0444,Orthopedics,General,Occupied,ADM04065
+BED0445,Gynecology,General,Available,
+BED0446,Neurology,Private,Occupied,ADM01728
+BED0447,Gynecology,Private,Available,
+BED0448,Orthopedics,General,Occupied,ADM07569
+BED0449,Orthopedics,Private,Available,
+BED0450,Oncology,Semi-Private,Occupied,ADM02929
+BED0451,Dermatology,General,Occupied,ADM00905
+BED0452,Cardiology,Semi-Private,Occupied,ADM07934
+BED0453,General Medicine,Semi-Private,Occupied,ADM07423
+BED0454,Emergency,General,Available,
+BED0455,Dermatology,Semi-Private,Occupied,ADM00395
+BED0456,Neurology,Private,Occupied,ADM06904
+BED0457,Neurology,General,Occupied,ADM05873
+BED0458,Gynecology,General,Occupied,ADM04501
+BED0459,General Medicine,General,Occupied,ADM05372
+BED0460,Neurology,General,Occupied,ADM05057
+BED0461,Orthopedics,General,Occupied,ADM07781
+BED0462,Pediatrics,General,Occupied,ADM01463
+BED0463,Pediatrics,General,Maintenance,
+BED0464,Neurology,ICU,Occupied,ADM04309
+BED0465,Neurology,General,Occupied,ADM07818
+BED0466,Oncology,General,Occupied,ADM06203
+BED0467,Gynecology,Private,Occupied,
+BED0468,Dermatology,General,Available,
+BED0469,Gynecology,General,Occupied,ADM04254
+BED0470,ENT,General,Occupied,ADM00138
+BED0471,Emergency,General,Occupied,ADM01481
+BED0472,Cardiology,Private,Available,
+BED0473,Pediatrics,General,Occupied,ADM00030
+BED0474,Pediatrics,General,Available,
+BED0475,Oncology,General,Occupied,ADM04606
+BED0476,Dermatology,General,Available,
+BED0477,ENT,Semi-Private,Occupied,
+BED0478,Orthopedics,Private,Available,
+BED0479,ENT,General,Occupied,ADM02792
+BED0480,General Medicine,General,Available,
+BED0481,ENT,General,Occupied,ADM02309
+BED0482,Gynecology,Private,Occupied,ADM07006
+BED0483,Cardiology,General,Occupied,ADM04104
+BED0484,Cardiology,General,Occupied,ADM03441
+BED0485,Cardiology,Semi-Private,Available,
+BED0486,Emergency,General,Occupied,ADM00210
+BED0487,Dermatology,General,Occupied,ADM00045
+BED0488,General Medicine,Private,Occupied,ADM04215
+BED0489,ENT,General,Occupied,ADM07815
+BED0490,Orthopedics,General,Occupied,ADM01421
+BED0491,Emergency,Semi-Private,Maintenance,
+BED0492,Cardiology,Private,Occupied,ADM01784
+BED0493,Orthopedics,Private,Occupied,ADM05964
+BED0494,Neurology,Semi-Private,Available,
+BED0495,Orthopedics,Semi-Private,Occupied,ADM07290
+BED0496,Oncology,Private,Occupied,ADM00907
+BED0497,Gynecology,General,Occupied,ADM04538
+BED0498,Orthopedics,ICU,Occupied,ADM00450
+BED0499,Cardiology,General,Occupied,ADM06930
+BED0500,General Medicine,Private,Occupied,ADM03187

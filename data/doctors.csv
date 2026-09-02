@@ -1,0 +1,101 @@
+doctor_id,doctor_name,department,specialization,experience_years
+D001,Dr. Mehta 1,Cardiology,Interventional Cardiologist,8
+D002,Dr. Joshi 2,Cardiology,Cardiologist,22
+D003,Dr. Mehta 3,Oncology,Surgical Oncologist,22
+D004,Dr. Khan 4,Dermatology,Dermatologist,13
+D005,Dr. Sharma 5,Pediatrics,Pediatrician,18
+D006,Dr. Mehta 6,Gynecology,Gynecologist,17
+D007,Dr. Singh 7,Orthopedics,Sports Medicine Specialist,12
+D008,Dr. Sharma 8,Pediatrics,Pediatrician,17
+D009,Dr. Singh 9,General Medicine,Physician,20
+D010,Dr. Singh 10,Emergency,Emergency Physician,7
+D011,Dr. Joshi 11,ENT,ENT Specialist,21
+D012,Dr. Patel 12,ENT,ENT Specialist,5
+D013,Dr. Verma 13,Gynecology,Obstetrician,17
+D014,Dr. Rao 14,ENT,ENT Specialist,18
+D015,Dr. Joshi 15,Dermatology,Dermatologist,3
+D016,Dr. Gupta 16,ENT,ENT Specialist,4
+D017,Dr. Gupta 17,General Medicine,Physician,8
+D018,Dr. Rao 18,Emergency,Emergency Physician,2
+D019,Dr. Gupta 19,Pediatrics,Neonatologist,13
+D020,Dr. Sharma 20,Dermatology,Dermatologist,19
+D021,Dr. Rao 21,Pediatrics,Pediatrician,9
+D022,Dr. Singh 22,Oncology,Medical Oncologist,9
+D023,Dr. Sharma 23,Gynecology,Obstetrician,21
+D024,Dr. Mehta 24,General Medicine,Physician,17
+D025,Dr. Khan 25,Gynecology,Obstetrician,24
+D026,Dr. Patel 26,Pediatrics,Pediatrician,5
+D027,Dr. Kapoor 27,Gynecology,Gynecologist,14
+D028,Dr. Rao 28,ENT,ENT Specialist,2
+D029,Dr. Verma 29,Cardiology,Cardiologist,24
+D030,Dr. Khan 30,ENT,ENT Specialist,16
+D031,Dr. Sharma 31,Pediatrics,Neonatologist,13
+D032,Dr. Verma 32,General Medicine,Physician,24
+D033,Dr. Mehta 33,Orthopedics,Orthopedic Surgeon,16
+D034,Dr. Patel 34,Cardiology,Interventional Cardiologist,19
+D035,Dr. Verma 35,Pediatrics,Neonatologist,21
+D036,Dr. Singh 36,Orthopedics,Orthopedic Surgeon,13
+D037,Dr. Singh 37,Dermatology,Dermatologist,3
+D038,Dr. Joshi 38,General Medicine,Internal Medicine Specialist,4
+D039,Dr. Mehta 39,Dermatology,Dermatologist,9
+D040,Dr. Mehta 40,Gynecology,Obstetrician,2
+D041,Dr. Joshi 41,Neurology,Neurologist,12
+D042,Dr. Joshi 42,Neurology,Neurologist,5
+D043,Dr. Gupta 43,Emergency,Emergency Physician,18
+D044,Dr. Mehta 44,Cardiology,Interventional Cardiologist,10
+D045,Dr. Mehta 45,General Medicine,Physician,7
+D046,Dr. Kapoor 46,ENT,ENT Specialist,2
+D047,Dr. Khan 47,Orthopedics,Sports Medicine Specialist,9
+D048,Dr. Sharma 48,Oncology,Surgical Oncologist,24
+D049,Dr. Joshi 49,Pediatrics,Pediatrician,20
+D050,Dr. Rao 50,Oncology,Surgical Oncologist,3
+D051,Dr. Joshi 51,Gynecology,Gynecologist,21
+D052,Dr. Verma 52,Orthopedics,Orthopedic Surgeon,20
+D053,Dr. Joshi 53,Orthopedics,Sports Medicine Specialist,4
+D054,Dr. Sharma 54,Oncology,Surgical Oncologist,6
+D055,Dr. Singh 55,Dermatology,Dermatologist,19
+D056,Dr. Khan 56,Gynecology,Obstetrician,12
+D057,Dr. Rao 57,ENT,ENT Specialist,9
+D058,Dr. Patel 58,General Medicine,Internal Medicine Specialist,2
+D059,Dr. Mehta 59,Orthopedics,Sports Medicine Specialist,12
+D060,Dr. Gupta 60,Gynecology,Gynecologist,20
+D061,Dr. Gupta 61,Pediatrics,Pediatrician,11
+D062,Dr. Mehta 62,ENT,ENT Specialist,10
+D063,Dr. Verma 63,Neurology,Neurosurgeon,22
+D064,Dr. Joshi 64,General Medicine,Internal Medicine Specialist,22
+D065,Dr. Mehta 65,Dermatology,Dermatologist,11
+D066,Dr. Khan 66,Neurology,Neurologist,2
+D067,Dr. Mehta 67,Oncology,Surgical Oncologist,24
+D068,Dr. Verma 68,Oncology,Surgical Oncologist,19
+D069,Dr. Verma 69,Neurology,Neurologist,8
+D070,Dr. Verma 70,Gynecology,Gynecologist,4
+D071,Dr. Joshi 71,Dermatology,Dermatologist,22
+D072,Dr. Gupta 72,Cardiology,Cardiologist,18
+D073,Dr. Verma 73,Pediatrics,Neonatologist,2
+D074,Dr. Singh 74,Oncology,Medical Oncologist,14
+D075,Dr. Patel 75,Neurology,Neurosurgeon,11
+D076,Dr. Mehta 76,ENT,ENT Specialist,10
+D077,Dr. Khan 77,Cardiology,Interventional Cardiologist,20
+D078,Dr. Rao 78,General Medicine,Internal Medicine Specialist,15
+D079,Dr. Rao 79,Neurology,Neurosurgeon,23
+D080,Dr. Joshi 80,General Medicine,Physician,16
+D081,Dr. Rao 81,Gynecology,Obstetrician,25
+D082,Dr. Mehta 82,Emergency,Emergency Physician,25
+D083,Dr. Verma 83,Cardiology,Interventional Cardiologist,16
+D084,Dr. Joshi 84,Emergency,Emergency Physician,18
+D085,Dr. Kapoor 85,Gynecology,Gynecologist,11
+D086,Dr. Verma 86,Dermatology,Dermatologist,25
+D087,Dr. Mehta 87,Gynecology,Obstetrician,9
+D088,Dr. Sharma 88,Pediatrics,Neonatologist,11
+D089,Dr. Verma 89,Oncology,Surgical Oncologist,10
+D090,Dr. Verma 90,Orthopedics,Orthopedic Surgeon,21
+D091,Dr. Singh 91,Emergency,Emergency Physician,3
+D092,Dr. Khan 92,ENT,ENT Specialist,21
+D093,Dr. Joshi 93,Gynecology,Gynecologist,9
+D094,Dr. Kapoor 94,Dermatology,Dermatologist,9
+D095,Dr. Joshi 95,General Medicine,Physician,17
+D096,Dr. Khan 96,Orthopedics,Sports Medicine Specialist,23
+D097,Dr. Joshi 97,Orthopedics,Orthopedic Surgeon,13
+D098,Dr. Kapoor 98,Dermatology,Dermatologist,15
+D099,Dr. Khan 99,Gynecology,Obstetrician,10
+D100,Dr. Khan 100,Oncology,Surgical Oncologist,2
